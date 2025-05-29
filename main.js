@@ -1,0 +1,1 @@
+console.log('Web Anděl v teplákách načten.');
