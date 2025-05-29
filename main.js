@@ -1,1 +1,1 @@
-<!-- Placeholder for main.js -->
+console.log('Web Anděl v teplákách načten.');
