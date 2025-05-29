@@ -1,1 +1,1 @@
-console.log('Anděl v teplákách spuštěn');
+<!-- Placeholder for main.js -->

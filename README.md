@@ -1,2 +1,1 @@
-# Anděl v teplákách
-Satirický web o absurditě systému v pomáhajících profesích.
+<!-- Placeholder for README.md -->
