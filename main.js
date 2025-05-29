@@ -1,0 +1,1 @@
+console.log('Anděl v teplákách spuštěn');
